@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gift-wrapping-algorithm/static/css/main.b981f001.chunk.css",
-    "main.js": "/gift-wrapping-algorithm/static/js/main.68e801b8.chunk.js",
-    "main.js.map": "/gift-wrapping-algorithm/static/js/main.68e801b8.chunk.js.map",
+    "main.js": "/gift-wrapping-algorithm/static/js/main.afeb996c.chunk.js",
+    "main.js.map": "/gift-wrapping-algorithm/static/js/main.afeb996c.chunk.js.map",
     "runtime-main.js": "/gift-wrapping-algorithm/static/js/runtime-main.394f400f.js",
     "runtime-main.js.map": "/gift-wrapping-algorithm/static/js/runtime-main.394f400f.js.map",
     "static/js/2.7bb62946.chunk.js": "/gift-wrapping-algorithm/static/js/2.7bb62946.chunk.js",
     "static/js/2.7bb62946.chunk.js.map": "/gift-wrapping-algorithm/static/js/2.7bb62946.chunk.js.map",
     "index.html": "/gift-wrapping-algorithm/index.html",
-    "precache-manifest.06bf4b5c5beb26ae050ddb18565454cd.js": "/gift-wrapping-algorithm/precache-manifest.06bf4b5c5beb26ae050ddb18565454cd.js",
+    "precache-manifest.682365a663aff1399fee4f7fe5e0787f.js": "/gift-wrapping-algorithm/precache-manifest.682365a663aff1399fee4f7fe5e0787f.js",
     "service-worker.js": "/gift-wrapping-algorithm/service-worker.js",
     "static/css/main.b981f001.chunk.css.map": "/gift-wrapping-algorithm/static/css/main.b981f001.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.394f400f.js",
     "static/js/2.7bb62946.chunk.js",
     "static/css/main.b981f001.chunk.css",
-    "static/js/main.68e801b8.chunk.js"
+    "static/js/main.afeb996c.chunk.js"
   ]
 }
