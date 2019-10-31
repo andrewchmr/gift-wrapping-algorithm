@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd02bbde599831a3c6f4a52ea7a1618f",
+    "revision": "105b93f4ef9afe9a1a4da58754aadea8",
     "url": "/gift-wrapping-algorithm/index.html"
   },
   {
-    "revision": "fda5b9f9b5a17147fee9",
+    "revision": "031183b338160b3940dd",
     "url": "/gift-wrapping-algorithm/static/css/main.b981f001.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gift-wrapping-algorithm/static/js/2.7bb62946.chunk.js"
   },
   {
-    "revision": "fda5b9f9b5a17147fee9",
-    "url": "/gift-wrapping-algorithm/static/js/main.6b99cb3d.chunk.js"
+    "revision": "031183b338160b3940dd",
+    "url": "/gift-wrapping-algorithm/static/js/main.68e801b8.chunk.js"
   },
   {
     "revision": "1a04aca1bb09350aa432",
