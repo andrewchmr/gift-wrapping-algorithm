@@ -18,7 +18,7 @@ const GiftWrappingView = ({points, isRunning, currentVertex, nextVertex, checkin
     const Point = ({point}: { point: Point }) =>
         <circle cx={point.x}
                 fill={'white'} cy={point.y}
-                r={10}/>;
+                r={5}/>;
 
     const Points = () => <g>{points.map((point, index) => <Point point={point} key={index}/>)}</g>;
 
