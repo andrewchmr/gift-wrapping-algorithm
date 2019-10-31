@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gift-wrapping-algorithm/precache-manifest.682365a663aff1399fee4f7fe5e0787f.js"
+  "/gift-wrapping-algorithm/precache-manifest.2e0cc08ff5c7ad0b7e6981029e45c16a.js"
 );
 
 self.addEventListener('message', (event) => {
