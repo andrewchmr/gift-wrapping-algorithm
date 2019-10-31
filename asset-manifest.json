@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gift-wrapping-algorithm/static/css/main.b981f001.chunk.css",
+    "main.js": "/gift-wrapping-algorithm/static/js/main.6b99cb3d.chunk.js",
+    "main.js.map": "/gift-wrapping-algorithm/static/js/main.6b99cb3d.chunk.js.map",
+    "runtime-main.js": "/gift-wrapping-algorithm/static/js/runtime-main.394f400f.js",
+    "runtime-main.js.map": "/gift-wrapping-algorithm/static/js/runtime-main.394f400f.js.map",
+    "static/js/2.7bb62946.chunk.js": "/gift-wrapping-algorithm/static/js/2.7bb62946.chunk.js",
+    "static/js/2.7bb62946.chunk.js.map": "/gift-wrapping-algorithm/static/js/2.7bb62946.chunk.js.map",
+    "index.html": "/gift-wrapping-algorithm/index.html",
+    "precache-manifest.061f6fa477205b55aa7465cd844588b1.js": "/gift-wrapping-algorithm/precache-manifest.061f6fa477205b55aa7465cd844588b1.js",
+    "service-worker.js": "/gift-wrapping-algorithm/service-worker.js",
+    "static/css/main.b981f001.chunk.css.map": "/gift-wrapping-algorithm/static/css/main.b981f001.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394f400f.js",
+    "static/js/2.7bb62946.chunk.js",
+    "static/css/main.b981f001.chunk.css",
+    "static/js/main.6b99cb3d.chunk.js"
+  ]
+}
