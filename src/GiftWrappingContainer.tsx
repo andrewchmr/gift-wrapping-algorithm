@@ -7,7 +7,7 @@ const GiftWrappingContainer: React.FC = () => {
     const width = window.innerWidth;
     const height = window.innerHeight;
     const padding = 50;
-    const delay = 100;
+    const delay = 50;
     const numberOfPoints = 50;
 
     const [points, setPoints] = useState<Point[]>(getRandomPos());
