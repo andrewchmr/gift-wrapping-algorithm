@@ -1,3 +1,11 @@
+# Gift Wrapping Algorithm Visualisation
+
+Visualisation of Gift Wrapping Algorithm for calculating a convex hull.
+
+Demo: https://andrewchmr.github.io/gift-wrapping-algorithm/
+
+![alt text](https://github.com/andrewchmr/gift-wrapping-algorithm/blob/master/images/gift-wrapping.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
