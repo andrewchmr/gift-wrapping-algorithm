@@ -42,9 +42,9 @@ const GiftWrappingView = ({points, isRunning, currentVertex, nextVertex, checkin
 
     return (
         <Wrapper>
-            <Points/>
             <Lines/>
             <HullPath/>
+            <Points/>
         </Wrapper>
     );
 };
