@@ -71,7 +71,7 @@ const GiftWrappingContainer: React.FC = () => {
     }
 
     function checkPoint() {
-        if (points[index]) {
+        if (points[index] && !hull.includes(points[index])) {
             setChecking(points[index]);
             const a = {x: nextVertex.x - currentVertex.x, y: nextVertex.y - currentVertex.y};
             const b = {x: checking.x - currentVertex.x, y: checking.y - currentVertex.y};
